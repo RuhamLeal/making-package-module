@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="password_maker",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="Ruham Leal",
+    author_email="ruhamxlpro@hotmail.com",
+    description="A module that generates a random password",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/RuhamLeal/making_package_module",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',

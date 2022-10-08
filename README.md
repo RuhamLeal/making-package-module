@@ -1,27 +1,24 @@
-# package_name
+# password_maker
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package password_maker is used to:
+	- Generate a list with random password(s)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install password_maker
 
 ```bash
-pip install package_name
+pip install password_maker
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+import random
+from password_maker import generate
+generate.make_my_passwords()
 ```
 
 ## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Ruham Leal
