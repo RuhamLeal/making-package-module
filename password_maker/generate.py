@@ -15,6 +15,3 @@ def make_my_passwords(n_password = 1, password_len = 6):
             password += random.choice(chars)
         list.append(password)
     return list
-
-print(make_my_passwords(3, 8))
-

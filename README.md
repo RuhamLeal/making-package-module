@@ -15,7 +15,6 @@ pip install password_maker
 ## Usage
 
 ```python
-import random
 from password_maker import generate
 generate.make_my_passwords()
 ```

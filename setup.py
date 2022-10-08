@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="password_maker",
-    version="0.0.1",
+    version="0.0.3",
     author="Ruham Leal",
     author_email="ruhamxlpro@hotmail.com",
     description="A module that generates a random password",
