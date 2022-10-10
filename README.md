@@ -21,8 +21,9 @@ pip install password_maker
 ```python
 from password_maker.generate import make_my_passwords
 
-to see more use the command help --> <code>help(make_my_passwords)</code>
+to see more use the command help
 ```
+<code>help(make_my_passwords)</code>
 
 ## Author
 Ruham Leal
