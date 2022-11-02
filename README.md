@@ -26,4 +26,7 @@ to see more use the command help
 <code>help(make_my_passwords)</code>
 
 ## Author
-Ruham Leal
+
+Ruham Leal    
+Email: ruhamxlpro@hotmail.com    
+Linkedin: https://www.linkedin.com/in/ruham-leal-dos-santos-sutil-38a837243/
